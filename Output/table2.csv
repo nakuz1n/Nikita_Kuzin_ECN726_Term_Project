@@ -1,0 +1,8 @@
+"part","term","statistic","(1) No Controls","(2) With Controls"
+"estimates","Post (PMG period)","estimate","0.060*","0.062*"
+"estimates","Post (PMG period)","std.error","(0.034)","(0.032)"
+"gof","Num.Obs.","","4514","4514"
+"gof","R2","","0.980","0.980"
+"manual","Controls","","NO","YES"
+"manual","Product FE","","YES","YES"
+"manual","Day FE","","YES","YES"

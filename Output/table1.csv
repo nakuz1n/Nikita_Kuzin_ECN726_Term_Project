@@ -1,0 +1,19 @@
+"Sample","Variable","Mean","SD","N"
+"Full Sample","Provider_Price",268.32,320.77,13542
+"Full Sample","Product_Popularity",0.26,0.3,13542
+"Full Sample","Search_Rank_Normalized",0.78,0.27,13542
+"Full Sample","Rating",4.15,0.62,13542
+"NewEgg","Provider_Price",253.15,302.39,4514
+"NewEgg","Product_Popularity",0.2,0.23,4514
+"NewEgg","Search_Rank_Normalized",0.64,0.36,4514
+"NewEgg","Rating",4.15,0.83,4514
+"NewEgg","Duration_general",30.87,28.78,4514
+"NewEgg","Treatment_freq",2.8,1.86,4514
+"Amazon UK","Provider_Price",298,343.85,4514
+"Amazon UK","Product_Popularity",0.26,0.3,4514
+"Amazon UK","Search_Rank_Normalized",0.85,0.17,4514
+"Amazon UK","Rating",4.14,0.48,4514
+"Amazon US","Provider_Price",253.81,312.63,4514
+"Amazon US","Product_Popularity",0.32,0.34,4514
+"Amazon US","Search_Rank_Normalized",0.85,0.17,4514
+"Amazon US","Rating",4.16,0.48,4514
