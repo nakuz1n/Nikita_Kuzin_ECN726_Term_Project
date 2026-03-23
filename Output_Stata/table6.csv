@@ -1,0 +1,15 @@
+="Table 6: IV and Control Function Estimates"
+
+="",="(1)",="(2)",="(3)"
+="",="(1) IV (2SLS)",="(2) Control Fn.",="(3) First Stage"
+
+="PMG",="0.958***",="0.050*",=""
+="",="(0.357)",="(0.028)",=""
+
+="Instrument: Older Product",="",="",="0.108***"
+="",="",="",="(0.021)"
+
+="N",="13542",="13542",="13542"
+
+="Controls: Product_Popularity, Rating, Review. Product FE, Day FE, Retailer x Month FE absorbed. Bootstrap SEs for CF: 100 reps clustered at Old_Product_ID."
+="* p<0.10, ** p<0.05, *** p<0.01"

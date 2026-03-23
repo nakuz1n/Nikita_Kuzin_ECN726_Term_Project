@@ -1,0 +1,13 @@
+="Table 2: Average Change in NewEgg Prices (PMG effect)"
+
+="",="(1)",="(2)"
+="",="(1) No Controls",="(2) With Controls"
+
+="D=1 - Days of policy's validity",="0.060*",="0.062*"
+="",="(0.034)",="(0.032)"
+
+="Observations",="4514",="4514"
+="R-squared",="0.980",="0.980"
+
+="Product FE and Day FE absorbed. SEs clustered at Old_Product_ID level."
+="* p<0.10, ** p<0.05, *** p<0.01"
