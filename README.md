@@ -71,7 +71,7 @@ Mac users encountering `rgl`/OpenGL errors: the R script includes a fix at the t
 
 ## Output
 
-All outputs are written to `./output/`:
+All outputs are written to `./Output_Stata/`:
 
 ```
 output/
@@ -105,7 +105,7 @@ project_root/
 ├── README.md                       ← This file
 ├── Input/
 │   └── DataFromProviders_FULL.dta  ← Main panel dataset
-└── output/                         ← All generated tables and figures
+└── output/Stata/                         ← All generated tables and figures
 ```
 
 ---
